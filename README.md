@@ -2,7 +2,7 @@
 
 ![U3D 타이틀 이미지](<./README THUMBNAIL - UNITY3D TEAM.png>)
 
-**Unity와 C#**으로 개발한 **Return Of the Arcane** 이름의 **2인 팀 창작 3D 마법 전투·생존 액션 게임**입니다. 일반 골렘을 처치해 점수를 획득하고, 누적 점수로 소환된 보스를 쓰러뜨리는 플레이로 구성했습니다.
+**Unity와 C**으로 개발한 **Return Of the Arcane** 이름의 **2인 팀 창작 3D 마법 전투·생존 액션 게임**입니다. 일반 골렘을 처치해 점수를 획득하고, 누적 점수로 소환된 보스를 쓰러뜨리는 플레이로 구성했습니다.
 **프레임워크·맵 구성·물리 효과·게임 흐름 설계·애니메이션**을 주로 담당했습니다.
 ## [GitHub Repository](https://github.com/Nu-LungJi/Unity3D_Team_Project)
 ## [게임 시연 영상 (Demo Video)](https://youtu.be/IIL6rAAqU5w)
